@@ -1,1 +1,0 @@
-R.drawable.flag1,R.drawable.flag2,R.drawable.flag3,R.drawable.flag4,R.drawable.flag5,R.drawable.flag6,R.drawable.flag7,R.drawable.flag8,R.drawable.flag9,R.drawable.flag10,R.drawable.flag11,
